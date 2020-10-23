@@ -1,6 +1,6 @@
 # VK9-Powershell-portscan
 
- Author: Bryan Alfaro (Vry4n)
+ Author: Bryan Alfaro (Vry4n) \n
  Date: 10/10/20
  Site: https://vk9-sec.com
  Github account: https://github.com/vry4n
